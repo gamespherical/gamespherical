@@ -13,7 +13,7 @@ hello, i'm momo, you could call me crown, or the skin im using! i like the objec
 <table align="center">
   <tr align="center" valign="middle">
     <td width="30%">
-  <img width="300" height="300" alt="Untitled51_20261108220749" src="https://github.com/user-attachments/assets/1c5fc292-814c-488b-9946-60a65b35e3ba" />
+  <img width="500" height="500" alt="Untitled51_20261108220749" src="https://github.com/user-attachments/assets/1c5fc292-814c-488b-9946-60a65b35e3ba" />
     </td>
     <td width="70%" align="left">
   <p>$\color{#929F97}\text{MOMO 'S SOULGEM}$</p>
