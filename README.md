@@ -16,7 +16,7 @@ hello, i'm momo, you could call me crown, or the skin im using! i like the objec
   <img width="500" height="500" alt="Untitled51_20261108220749" src="https://github.com/user-attachments/assets/1c5fc292-814c-488b-9946-60a65b35e3ba" />
     </td>
     <td width="70%" align="left">
-  <p>$\color{#a04947}\text{MO}$ $\color{#9D5A57}\text{'S}$ $\color{#9A6B67}\text{SO}$ $\color{#958E87}\text{UL}$ $\color{#929F97}\text{GEM}$</p>
+  <p>$\color{#a04947}\text{MO}$ $\color{#9D5A57}\text{MO}$ $\color{#9A6B67}\text{'S}$ $\color{#987D77}\text{SO}$ $\color{#958E87}\text{UL}$ $\color{#929F97}\text{GEM}$</p>
    <p>$\color{#929F97}\text{test}$</p>
     </td>
   </tr>
