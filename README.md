@@ -17,7 +17,7 @@ hello, i'm momo, you could call me crown, or the skin im using! i like the objec
     </td>
     <td width="70%" align="left">
   <p>$\color{#a04947}\text{MO}$ $\color{#9D5A57}\text{MO}$ $\color{#9A6B67}\text{'S}$ ㅤㅤㅤ $\color{#987D77}\text{SO}$ $\color{#958E87}\text{UL}$ $\color{#929F97}\text{GEM}$</p>
-   <p>$\color{#929F97}\text{cli}$ $\color{#968A83}\text{ck}$ $\color{#99746F}\text{on}$ $\color{#9D5F5B}\text{in}$ $\color{#ao4947}\text{fo}$ </p>
+   <p>$\color{#929F97}\text{cli}$ $\color{#968A83}\text{ck}$ $\color{#99746F}\text{on}$ $\color{#9D5F5B}\text{in}$ $\color{#ao4947}\text{fo}$</p>
     </td>
   </tr>
 </table>
