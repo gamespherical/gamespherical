@@ -22,9 +22,5 @@ hello, i'm momo, you could call me crown, or the skin im using! i like the objec
   </tr>
 </table>
 
-<p align="center">
-  <a href="https://aleealee.atabook.org">新book</a>
-  ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀
-  <a href="https://rentry.co/lovelettersaway">♡ rentry</a>
-</p>
+<p align="center"><a href="https://aleealee.atabook.org">新book</a></p>
   <hr>
