@@ -13,7 +13,7 @@ hello, i'm momo, you could call me cheese slice, or the skin im using! i like th
 <table align="center">
   <tr align="center" valign="middle">
     <td width="30%">
-  <img width="612" height="576" alt="IMG_0016" src="https://github.com/user-attachments/assets/99c90f2b-f632-4bb7-bba1-26a9f6f4167c" />
+  <img width="500" height="500”alt="IMG_0016" src="https://github.com/user-attachments/assets/99c90f2b-f632-4bb7-bba1-26a9f6f4167c" />
     </td>
     <td width="70%" align="left">
   <p>cheese slice meow</p>
