@@ -13,11 +13,11 @@ hello, i'm momo, you could call me crown, or the skin im using! i like the objec
 <table align="center">
   <tr align="center" valign="middle">
     <td width="30%">
-  <img width="500" height="500" alt="Untitled51_20261108220749" src="https://github.com/user-attachments/assets/1c5fc292-814c-488b-9946-60a65b35e3ba" />
+  hi
     </td>
     <td width="70%" align="left">
-  <p>$\color{#a04947}\text{MO}$ $\color{#9D5A57}\text{MO}$ $\color{#9A6B67}\text{'S}$ ㅤㅤㅤ $\color{#987D77}\text{SO}$ $\color{#958E87}\text{UL}$ $\color{#929F97}\text{GEM}$</p>
-   <p>$\color{#929F97}\text{cli}$ $\color{#968A83}\text{ck}$ $\color{#99746F}\text{on}$ $\color{#9D5F5B}\text{in}$ $\color{#A04947}\text{fo}$</p>
+  <p>cheese slice meow</p>
+      <p>press on info for a cute surprise (spoiler alert its just my introduction)</p>
     </td>
   </tr>
 </table>
