@@ -2,7 +2,7 @@
 <details>
 <summary><b>info</b></summary>
 <br>
-hello, i'm momo, you could call me cheese slice, or the skin im using! i like the object show community, WHY DO ALL MY KINS START WITH THE LETTER C AND THEYRE YELLOW WTF!!!?!? 
+hi im momo. i like gamesphere. me. .. -- .... .- ...- .. -. --. .- -. .. -.. . -. - .. - -.-- -.-. .-. .. ... .. ...
 
   󠀠󠀠󠀠⠀ ⠀ ⠀ ⠀ ⠀⠀ ⠀ ⠀ ⠀ ⠀
   i like bfpor other fans int pls
@@ -13,10 +13,10 @@ hello, i'm momo, you could call me cheese slice, or the skin im using! i like th
 <table align="center">
   <tr align="center" valign="middle">
     <td width="30%">
- <img width="612" height="576" alt="IMG_0016" src="https://github.com/user-attachments/assets/d1bd909d-a335-4586-9a24-490b361fc27f" />
-   </td>
+ <img width="736" height="736" alt="OHMY-GOD-SHES-SO-CUTE-IM-GONNA-CRY" src="https://github.com/user-attachments/assets/40fdf35d-4816-41e2-8dc2-5d6baf455f41" />
+  </td>
     <td width="70%" align="left">
-  <p>cheese slice meow</p>
+  <p>im wherever i can be</p>
       <p>press on info for a cute surprise (spoiler alert its just my introduction)</p>
     </td>
   </tr>
