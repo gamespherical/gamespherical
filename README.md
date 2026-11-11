@@ -16,8 +16,8 @@ hi im momo. i like gamesphere. me. .. -- .... .- ...- .. -. --. .- -. .. -.. . -
  <img width="736" height="736" alt="OHMY-GOD-SHES-SO-CUTE-IM-GONNA-CRY" src="https://github.com/user-attachments/assets/40fdf35d-4816-41e2-8dc2-5d6baf455f41" />
   </td>
     <td width="70%" align="left">
-  <p>im wherever i can be</p>
-      <p> $\color{2d2d2d}\text{press on info for a cute surprise (spoiler alert its just my introduction)}$</p>
+  <p> $\color{#00000}\text{im wherever i can be}$</p>
+      <p> $\color{#2d2d2d}\text{press on info for a cute surprise (spoiler alert its just my introduction)}$</p>
     </td>
   </tr>
 </table>
