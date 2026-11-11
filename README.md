@@ -3,11 +3,14 @@
 <summary><b>info</b></summary>
 <br>
 hi im momo. i like gamesphere. me. .. -- .... .- ...- .. -. --. .- -. .. -.. . -. - .. - -.-- -.-. .-. .. ... .. ...
-PROBABLY FOUND ME WITH THAT VOID FEZ FACE OR GAMESPHERE SKIN AHAHAHAHAHHok
+
+  
+  PROBABLY FOUND ME WITH THAT VOID FEZ FACE OR GAMESPHERE SKIN AHAHAHAHAHHok
   󠀠󠀠󠀠⠀ ⠀ ⠀ ⠀ ⠀⠀ ⠀ ⠀ ⠀ ⠀
   i like bfpor other fans int pls
 
   ⠀ ⠀ ⠀ ⠀ ⠀⠀ ⠀ ⠀ ⠀ ⠀
+ 
   some other interests i have are madoka magica, korfc, ii, omori, illit and danganronpa!! i LOVE c*h. and pleasee do not mention past dramas i was in. also, interact with care. i might be sensitive if im having a bad day. have a great day, evening and night. # KYOSAYA FOREVER !!!
 </details>
 <table align="center">
