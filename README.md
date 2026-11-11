@@ -17,7 +17,7 @@ hi im momo. i like gamesphere. me. .. -- .... .- ...- .. -. --. .- -. .. -.. . -
   </td>
     <td width="70%" align="left">
   <p>im wherever i can be</p>
-      <p>press on info for a cute surprise (spoiler alert its just my introduction)</p>
+      <p> $\color{2d2d2d}\text{press on info for a cute surprise (spoiler alert its just my introduction)}$</p>
     </td>
   </tr>
 </table>
