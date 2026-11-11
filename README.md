@@ -6,7 +6,8 @@ hi im momo. i like gamesphere. me. .. -- .... .- ...- .. -. --. .- -. .. -.. . -
 
   
   PROBABLY FOUND ME WITH THAT VOID FEZ FACE OR GAMESPHERE SKIN AHAHAHAHAHHok
-  󠀠󠀠󠀠⠀ ⠀ ⠀ ⠀ ⠀⠀ ⠀ ⠀ ⠀ ⠀
+
+  
   i like bfpor other fans int pls
 
   ⠀ ⠀ ⠀ ⠀ ⠀⠀ ⠀ ⠀ ⠀ ⠀
