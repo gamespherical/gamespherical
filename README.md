@@ -10,7 +10,7 @@
 <details>
 <summary><b>info</b></summary>
 <br>
-hi im momo me. .. -- .... .- ...- .. -. --. .- -. .. -.. . -. - .. - -.-- -.-. .-. .. ... .. ...
+hi im momo. pingu bible me. gamesphere. also me .. -- .... .- ...- .. -. --. .- -. .. -.. . -. - .. - -.-- -.-. .-. .. ... .. ...
 
   
   PROBABLY FOUND ME WITH THAT VOID FEZ FACE SKIN AHAHAHAHAHHok
