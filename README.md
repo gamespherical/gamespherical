@@ -7,10 +7,10 @@
 <details>
 <summary><b>info</b></summary>
 <br>
-hi im momo. i like gamesphere. me. .. -- .... .- ...- .. -. --. .- -. .. -.. . -. - .. - -.-- -.-. .-. .. ... .. ...
+hi im momo me. .. -- .... .- ...- .. -. --. .- -. .. -.. . -. - .. - -.-- -.-. .-. .. ... .. ...
 
   
-  PROBABLY FOUND ME WITH THAT VOID FEZ FACE OR GAMESPHERE SKIN AHAHAHAHAHHok
+  PROBABLY FOUND ME WITH THAT VOID FEZ FACE SKIN AHAHAHAHAHHok
 
   
   i like bfpor other fans int pls
@@ -22,7 +22,7 @@ hi im momo. i like gamesphere. me. .. -- .... .- ...- .. -. --. .- -. .. -.. . -
 <table align="center">
   <tr align="center" valign="middle">
     <td width="30%">
- <img width="736" height="736" alt="OHMY-GOD-SHES-SO-CUTE-IM-GONNA-CRY" src="https://github.com/user-attachments/assets/40fdf35d-4816-41e2-8dc2-5d6baf455f41" />
+ <img width="736" height="736" alt="Untitled16_20261114123634" src="https://github.com/user-attachments/assets/d9daa8e3-6be8-44db-ac32-f8fa642c0f28" />
   </td>
     <td width="70%" align="left">
   <p> $\color{#00000}\text{im wherever i can be}$</p>
