@@ -34,5 +34,9 @@ hi im momo me. .. -- .... .- ...- .. -. --. .- -. .. -.. . -. - .. - -.-- -.-. .
   </tr>
 </table>
 
-<p align="center"><a href="https://aleealee.atabook.org">新book</a></p>
+<p align="center">
+  <a href="https://aleealee.atabook.org">新book</a>
+⠀ ⠀ ⠀ ⠀ ⠀
+  <a href="https://github.com/toypaz/lazy-art">lazy art repo</a>
+</p>
   <hr>
