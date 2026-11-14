@@ -17,7 +17,7 @@ hi im momo me. .. -- .... .- ...- .. -. --. .- -. .. -.. . -. - .. - -.-- -.-. .
 
   ⠀ ⠀ ⠀ ⠀ ⠀⠀ ⠀ ⠀ ⠀ ⠀
  
-  some other interests i have are madoka magica, korfc, ii, omori, illit and danganronpa!! i LOVE c*h. and pleasee do not mention past dramas i was in. also, interact with care. i might be sensitive if im having a bad day. have a great day, evening and night. # KYOSAYA FOREVER !!!
+  um fandoms are bfpor tfmos madoka magica danganronpa bfdi ii malueslots k-on
 </details>
 <table align="center">
   <tr align="center" valign="middle">
